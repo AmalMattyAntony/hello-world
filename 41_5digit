@@ -1,0 +1,11 @@
+def sod(n):
+     sum=0
+     while(n>0):
+             sum+=(n%10)
+             n/=10
+     return sum
+count=0
+for i in range(10000,50000,1):
+	if(sod(i)==41):
+		count+=1
+print(count)
