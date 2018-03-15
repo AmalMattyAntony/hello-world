@@ -10,3 +10,5 @@ for i in range(10000,50000,1):
 	if(sod(i)==41):
 		count+=1
 print(count)
+#so i am gonna change this part from user 2
+and this is what i am typing new
