@@ -1,4 +1,6 @@
 #just changing to add this comment
+#oi this is user 1
+and this what i am adding new
 def sod(n):
      sum=0
      while(n>0):
